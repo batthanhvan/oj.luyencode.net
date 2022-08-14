@@ -2,6 +2,7 @@
 //Method: Use String Instead of Long Long
 
 //C++
+
 #include <iostream>
 #include <string>
 #include  <algorithm>

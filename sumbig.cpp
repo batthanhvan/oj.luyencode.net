@@ -1,7 +1,7 @@
 //SUMBIG - Tính tổng 2 số nguyên lớn
 //Method: Use String Instead of Long Long
 
-
+//C++
 #include <iostream>
 #include <string>
 #include  <algorithm>

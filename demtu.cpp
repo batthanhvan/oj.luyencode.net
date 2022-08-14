@@ -1,6 +1,7 @@
 //DEMTU - Bé học tiếng Anh
 //Method: "_a" is a word + 1 (endword)
 
+//C++
 
 #include <iostream>
 #include <cmath>

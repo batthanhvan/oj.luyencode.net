@@ -1,6 +1,8 @@
 //SUMDIV - Tính tổng các ước số
 //Method: If n % a == 0 => a and n /a are estimates of n
 
+//C++
+
 #include <iostream>
 #include <cmath>
 using namespace std;
